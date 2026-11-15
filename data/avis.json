@@ -1,0 +1,4 @@
+{
+  "_comment": "À REMPLIR avec de vrais avis clients, avec l'accord du restaurant (par exemple trois avis Google recopiés mot pour mot). Aucun avis n'est inventé : tant que la liste est vide, le site affiche seulement la note Google et les thèmes qui reviennent dans les avis. Format : { author: \"Prénom N.\", date: \"2026-10\", lang: \"fr\", text: \"…\", source: \"Google\" }",
+  "items": []
+}

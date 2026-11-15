@@ -1,0 +1,14 @@
+{
+  "_comment": "Le plat du jour. Pour le changer : modifiez le nom, la garniture, le prix et la date ci-dessous, puis poussez sur GitHub (Vercel redéploie tout seul). Relevé sur sa carte QR (WiiC) le 2026-11-15.",
+  "updated": "2026-11-15",
+  "items": [
+    {
+      "id": "bourguignon",
+      "fr": { "name": "Bœuf bourguignon", "desc": "Pommes vapeur" },
+      "en": { "name": "Beef bourguignon", "desc": "Beef slow-cooked in red wine, steamed potatoes" },
+      "es": { "name": "Bœuf bourguignon", "desc": "Ternera guisada al vino tinto, patatas al vapor" },
+      "price": 27.9,
+      "photo": ""
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Le Dôme",
+  "fullName": "Bistrot Le Dôme",
+  "url": "https://bistrot-le-dome.vercel.app",
+  "phone": "09 87 76 60 20",
+  "phoneIntl": "+33987766020",
+  "whatsapp": "",
+  "email": "ledome92@gmail.com",
+  "instagram": "https://www.instagram.com/bistrot_le_dome/",
+  "instagramHandle": "@bistrot_le_dome",
+  "address": {
+    "street": "6 rue du Hameau",
+    "postalCode": "75015",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR"
+  },
+  "geo": { "lat": 48.8354878, "lng": 2.2892689 },
+  "mapsUrl": "https://maps.google.com/?cid=7222515694557407778",
+  "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=48.8354878,2.2892689",
+  "rating": {
+    "value": 4.8,
+    "count": 1894,
+    "checked": "2026-11-15",
+    "themes": [
+      { "id": "escargots", "count": 83 },
+      { "id": "bourguignon", "count": 32 },
+      { "id": "cuisine", "count": 22 },
+      { "id": "baguette", "count": 21 },
+      { "id": "confit", "count": 18 },
+      { "id": "creme", "count": 10 },
+      { "id": "entrecote", "count": 8 }
+    ]
+  },
+  "priceRange": "€€",
+  "paymentMethods": ["Visa", "Mastercard", "American Express", "Ticket Restaurant", "cash"],
+  "walk": {
+    "expoEdge": 5,
+    "expoMain": 7,
+    "metroPdV": 6,
+    "metroConvention": 8
+  },
+  "booking": {
+    "daysAhead": 90,
+    "maxGuests": 12,
+    "lunch": ["11:30", "15:00"],
+    "dinner": ["18:00", "21:30"],
+    "step": 15
+  },
+  "groups": {
+    "minGuests": 8,
+    "maxGuests": 120,
+    "daysAhead": 365
+  },
+  "payment": { "enabled": false },
+  "giftCard": { "enabled": false },
+  "legal": {
+    "company": "Bistrot Le Dôme",
+    "siret": "",
+    "director": "",
+    "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis"
+  }
+}

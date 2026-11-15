@@ -1,0 +1,15 @@
+{
+  "_source": "Fiche Google (relevée le 2026-11-15 : « Ouvert · Ferme à 22:00 » un dimanche, « ouvert le dimanche » dans la description du propriétaire) et annuaires qui reprennent 11:00 – 22:00. À CONFIRMER avec le restaurant (son ancien site indiquait 8 h – minuit du lundi au samedi, fermé le dimanche). 1 = lundi … 7 = dimanche.",
+  "week": {
+    "1": [["11:00", "22:00"]],
+    "2": [["11:00", "22:00"]],
+    "3": [["11:00", "22:00"]],
+    "4": [["11:00", "22:00"]],
+    "5": [["11:00", "22:00"]],
+    "6": [["11:00", "22:00"]],
+    "7": [["11:00", "22:00"]]
+  },
+  "happyHour": { "days": [1, 2, 3, 4, 5, 6], "from": "17:00", "to": "20:00" },
+  "exceptions": [],
+  "closures": []
+}

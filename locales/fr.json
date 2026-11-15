@@ -1,0 +1,451 @@
+{
+  "meta": {
+    "title": "Bistrot français près de la Porte de Versailles, Paris 15 | Le Dôme",
+    "description": "Escargots, bœuf bourguignon, confit et crème brûlée au Bistrot Le Dôme, rue du Hameau, à 5 min de Paris Expo. 4,8/5 sur Google. Réservez en ligne.",
+    "ogAlt": "La façade noire du Bistrot Le Dôme, rue du Hameau, à la tombée du jour"
+  },
+  "intro": {
+    "skip": "Passer",
+    "tagline": "BISTROT · PARIS"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "main": "Navigation principale",
+    "home": "accueil",
+    "carte": "La carte",
+    "daily": "Menu du jour",
+    "groupes": "Groupes",
+    "acces": "Accès",
+    "infos": "Infos",
+    "reserve": "Réserver une table",
+    "reserveShort": "Réserver",
+    "call": "Appeler",
+    "callAria": "Appeler le restaurant au {phone}",
+    "openMenu": "Ouvrir le menu",
+    "close": "Fermer",
+    "lang": "Langue",
+    "instagram": "Le Dôme sur Instagram",
+    "directions": "Itinéraire",
+    "seeMenu": "Voir la carte",
+    "giftCard": "Bon cadeau",
+    "breadcrumb": "Fil d'Ariane"
+  },
+  "announce": {
+    "close": "Fermer le bandeau",
+    "daily": "Plat du jour : {dish} · {price}"
+  },
+  "status": {
+    "open": "Ouvert maintenant",
+    "closed": "Fermé en ce moment",
+    "until": "jusqu'à {time}",
+    "opens": "ouvre {day} à {time}",
+    "today": "aujourd'hui",
+    "tomorrow": "demain"
+  },
+  "rating": {
+    "label": "{value}/5 sur Google",
+    "count": "près de {rounded} avis",
+    "aria": "Note Google : {value} sur 5, {count} avis. Ouvrir la fiche Google"
+  },
+  "hero": {
+    "eyebrow": "Bistrot français · Porte de Versailles · Paris 15",
+    "title": "La vraie cuisine de bistrot",
+    "sub": "Escargots, bœuf bourguignon, confit de canard, crème brûlée. Rue du Hameau, à 5 minutes à pied de Paris Expo."
+  },
+  "tiles": {
+    "label": "Ce qu'on vient manger au Dôme",
+    "items": {
+      "daily": {
+        "label": "Menu du jour",
+        "sub": "L'ardoise du moment"
+      },
+      "entrees": {
+        "label": "Entrées",
+        "sub": "Escargots, œuf mayo, burrata"
+      },
+      "plats": {
+        "label": "Plats",
+        "sub": "Bourguignon, confit, entrecôte"
+      },
+      "desserts": {
+        "label": "Desserts",
+        "sub": "Crème brûlée, tiramisu"
+      },
+      "vins": {
+        "label": "Vins",
+        "sub": "Bordeaux, Bourgogne, au verre"
+      }
+    }
+  },
+  "services": {
+    "label": "Le Dôme en quatre points",
+    "items": [
+      {
+        "id": "maison",
+        "title": "Cuisine française maison",
+        "text": "Produits frais et plats faits ici, frites maison comprises."
+      },
+      {
+        "id": "expo",
+        "title": "À 5 minutes de Paris Expo",
+        "text": "Déjeunez entre deux rendez-vous et retournez au salon à pied."
+      },
+      {
+        "id": "groupes",
+        "title": "Groupes et entreprises",
+        "text": "Déjeuners d'équipe, dîners de salon, privatisation sur devis."
+      },
+      {
+        "id": "resa",
+        "title": "Réservation simple",
+        "text": "En ligne en une minute ou par téléphone au {phone}."
+      }
+    ]
+  },
+  "daily": {
+    "eyebrow": "Sur l'ardoise",
+    "title": "Le plat du jour",
+    "slate": "Aujourd'hui au Dôme",
+    "updated": "Ardoise mise à jour le {date}",
+    "intro": "Chaque jour, une suggestion de la cuisine en plus de la carte. Demandez aussi l'ardoise en salle.",
+    "empty": "L'ardoise du jour est en cours d'écriture : demandez-la en salle ou appelez-nous.",
+    "cta": "Réserver pour aujourd'hui"
+  },
+  "carte": {
+    "eyebrow": "La carte",
+    "title": "Les grands classiques français",
+    "intro": "Toute la carte du Dôme, avec ses prix : entrées, plats du bistrot, burgers, desserts, vins et bar.",
+    "tabs": "Catégories de la carte",
+    "euros": "Prix en euros, service compris.",
+    "checked": "Carte relevée le {date}. Elle peut évoluer selon la saison : l'ardoise en salle fait foi.",
+    "allergens": "Allergies ou régime particulier ? Dites-le-nous en réservant et au service.",
+    "veg": "Végétarien",
+    "sig": "Grand classique",
+    "seeFull": "Voir toute la carte",
+    "frenchName": "Nom français"
+  },
+  "blocks": {
+    "classics": {
+      "eyebrow": "La cuisine",
+      "title": "Les grands classiques, comme on les aime",
+      "text": "Escargots au beurre persillé, bœuf bourguignon mijoté au vin rouge, confit de canard et pommes sarladaises, entrecôte sauce au poivre. Pour finir, une crème brûlée qui craque sous la cuillère.",
+      "cta": "Voir la carte"
+    },
+    "salons": {
+      "eyebrow": "Paris Expo",
+      "title": "Un salon à la Porte de Versailles ?",
+      "text": "Le Dôme est à 5 minutes à pied du Parc des Expositions. Le midi, dites-nous si vous devez retourner sur votre stand : on fait de notre mieux pour vous servir à temps. Le soir, on reçoit les équipes d'exposants et les clients que vous invitez.",
+      "cta": "Réserver pour un groupe"
+    },
+    "bistrot": {
+      "eyebrow": "Le bistrot",
+      "title": "Une maison de quartier, ouverte à tous",
+      "text": "Façade noire, store bleu nuit, chaises de bistrot, briques et suspensions dorées. Les habitués du 15e y déjeunent, les visiteurs du monde entier y goûtent la cuisine française, et le bar sert l'apéritif en happy hour.",
+      "cta": "Nous trouver"
+    }
+  },
+  "groups": {
+    "eyebrow": "Groupes et entreprises",
+    "title": "Déjeuners d'équipe, dîners de salon, privatisation",
+    "intro": "Pour un repas d'affaires, une équipe d'exposants, un anniversaire ou une soirée d'entreprise, le Dôme vous reçoit et peut être privatisé. Donnez-nous la date, le nombre de personnes et votre budget : nous revenons vers vous avec une proposition.",
+    "kinds": [
+      {
+        "title": "Exposants et visiteurs de salons",
+        "text": "Un déjeuner rapide pour toute l'équipe ou un dîner pour vos clients, à 5 minutes des halls."
+      },
+      {
+        "title": "Repas d'entreprise",
+        "text": "Déjeuner d'équipe, séminaire, pot de départ : menu à l'avance et addition unique si vous le souhaitez."
+      },
+      {
+        "title": "Fêtes et privatisation",
+        "text": "Anniversaire, cocktail, réception : le bistrot entier pour votre groupe, sur devis."
+      }
+    ],
+    "large": "Plus de {max} personnes ? Appelez-nous au {phone}."
+  },
+  "reviews": {
+    "eyebrow": "Les avis",
+    "title": "{value}/5 sur Google, près de {rounded} avis",
+    "text": "Une note rare pour un bistrot. Voici ce que les clients citent le plus souvent dans leurs avis Google.",
+    "mentions": "{count} avis",
+    "themes": {
+      "escargots": "Les escargots",
+      "bourguignon": "Le bœuf bourguignon",
+      "cuisine": "La cuisine française",
+      "baguette": "La baguette",
+      "confit": "Le confit de canard",
+      "creme": "La crème brûlée",
+      "entrecote": "L'entrecôte"
+    },
+    "checked": "Relevé sur la fiche Google le {date}.",
+    "readAll": "Lire les avis sur Google"
+  },
+  "access": {
+    "eyebrow": "Accès",
+    "title": "6 rue du Hameau, Paris 15",
+    "intro": "Au début de la rue du Hameau, côté rue de la Croix-Nivert, à 5 minutes à pied de la Porte de Versailles.",
+    "transportTitle": "Venir en transports",
+    "metro": "Métro Porte de Versailles (ligne 12), environ {min} min à pied",
+    "metro2": "Métro Convention (ligne 12), environ {min} min à pied",
+    "tram": "Tramway T2 et T3a, arrêt Porte de Versailles – Parc des Expositions",
+    "walkTitle": "Depuis Paris Expo, à pied",
+    "walkEdge": "Boulevard Lefebvre, face aux pavillons : {min} min",
+    "walkMain": "Entrée principale, place de la Porte de Versailles : {min} min",
+    "walkNote": "Temps de marche calculés sur OpenStreetMap.",
+    "hoursTitle": "Horaires",
+    "everyDay": "Tous les jours",
+    "happyHour": "Happy hour au bar du lundi au samedi, de {from} à {to}.",
+    "practical": "Pratique",
+    "payment": "Visa, Mastercard, American Express, espèces, titres-restaurant",
+    "pmr": "Accessible aux personnes à mobilité réduite",
+    "terrace": "Terrasse aux beaux jours",
+    "mapAlt": "Plan du quartier : le Bistrot Le Dôme, rue du Hameau, au nord du Parc des Expositions de la Porte de Versailles",
+    "mapCredit": "Plan © les contributeurs d'OpenStreetMap",
+    "openMaps": "Ouvrir dans Google Maps"
+  },
+  "infos": {
+    "days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ],
+    "closed": "Fermé"
+  },
+  "faq": {
+    "eyebrow": "Infos pratiques",
+    "title": "Vos questions",
+    "items": [
+      {
+        "q": "Faut-il réserver ?",
+        "a": "C'est conseillé le soir et pendant les grands salons de Paris Expo, quand le quartier se remplit. Réservez en ligne ou appelez le 09 87 76 60 20. Sans réservation, on vous installe s'il reste de la place."
+      },
+      {
+        "q": "Recevez-vous les groupes et les entreprises ?",
+        "a": "Oui : déjeuners d'équipe, dîners d'exposants, anniversaires et privatisation. Envoyez la date, le nombre de personnes et votre budget avec le formulaire groupes, nous vous répondons avec une proposition."
+      },
+      {
+        "q": "Y a-t-il des plats végétariens ?",
+        "a": "Oui : burger végétarien, burrata et tomates, tomate mozzarella, salade aux cœurs d'artichauts, œuf mayonnaise, fromages et desserts. Signalez vos contraintes en réservant."
+      },
+      {
+        "q": "Avez-vous un menu enfant ?",
+        "a": "Il y a un burger enfant (poulet, sauce cheddar, frites) à 12,90 €. Le Dôme est un restaurant familial, les enfants sont les bienvenus."
+      },
+      {
+        "q": "Quels moyens de paiement acceptez-vous ?",
+        "a": "Cartes Visa, Mastercard et American Express, espèces et titres-restaurant."
+      },
+      {
+        "q": "Parlez-vous anglais ou espagnol ?",
+        "a": "Le site et toute la carte existent en français, en anglais et en espagnol : gardez-la ouverte sur votre téléphone pour commander. Pour une demande écrite, écrivez-nous dans la langue de votre choix."
+      },
+      {
+        "q": "Le restaurant est-il accessible en fauteuil roulant ?",
+        "a": "Oui, le restaurant est accessible aux personnes à mobilité réduite. Prévenez-nous en réservant, nous vous préparons une table pratique."
+      }
+    ]
+  },
+  "form": {
+    "tableTitle": "Réserver une table",
+    "tableIntro": "Choisissez le jour, le service et l'heure. Nous confirmons votre table par e-mail ou par téléphone.",
+    "groupTitle": "Demande pour un groupe",
+    "groupIntro": "Entreprise, salon ou fête : décrivez votre projet, nous vous répondons avec une proposition.",
+    "day": "Date",
+    "service": "Service",
+    "services": {
+      "lunch": "Déjeuner",
+      "dinner": "Dîner"
+    },
+    "time": "Heure",
+    "guests": "Nombre de personnes",
+    "company": "Entreprise ou salon",
+    "budget": "Budget par personne",
+    "budgetPh": "Par exemple 35 €",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "message": "Message",
+    "messagePh": "Allergies, chaise haute, occasion particulière…",
+    "groupMessagePh": "Le salon, le déroulé souhaité, un menu unique ou à la carte…",
+    "optional": "facultatif",
+    "noSlot": "Le restaurant est fermé ce jour-là.",
+    "bigGroup": "Plus de {max} personnes ? Faites une demande de groupe.",
+    "submitTable": "Envoyer ma demande de réservation",
+    "submitGroup": "Envoyer ma demande",
+    "sending": "Envoi…",
+    "privacy": "Vos coordonnées servent uniquement à vous répondre.",
+    "orCall": "Vous préférez téléphoner ? {phone}",
+    "errors": {
+      "required": "Ce champ est obligatoire.",
+      "day": "Choisissez une date à venir.",
+      "time": "Choisissez une heure.",
+      "guests": "Entre {min} et {max} personnes.",
+      "phone": "Ce numéro de téléphone ne semble pas valide.",
+      "email": "Cette adresse e-mail ne semble pas valide.",
+      "generic": "L'envoi n'a pas fonctionné. Réessayez ou appelez-nous au {phone}."
+    },
+    "done": {
+      "title": "Merci, votre demande est envoyée",
+      "text": "Le Dôme vous confirme la réservation au plus vite par e-mail ou par téléphone. Un récapitulatif vient de partir vers votre boîte mail.",
+      "titleReady": "Votre demande est prête",
+      "noMail": "L'envoi automatique n'est pas encore activé. Envoyez ce message par e-mail en un clic, ou appelez-nous : la réservation n'est confirmée qu'après notre réponse.",
+      "mailCta": "Envoyer par e-mail",
+      "callCta": "Appeler le {phone}",
+      "wa": "WhatsApp s'est ouvert avec votre demande : il ne reste qu'à l'envoyer.",
+      "waCta": "Ouvrir WhatsApp",
+      "again": "Faire une autre demande"
+    },
+    "mail": {
+      "subjectTable": "Demande de réservation",
+      "subjectGroup": "Demande de groupe",
+      "titleTable": "Nouvelle demande de réservation",
+      "titleGroup": "Nouvelle demande de groupe",
+      "date": "Date",
+      "service": "Service",
+      "guests": "Personnes",
+      "company": "Entreprise ou salon",
+      "budget": "Budget par personne",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "lang": "Langue du client",
+      "confirmSubject": "Votre demande au Bistrot Le Dôme",
+      "confirmIntro": "Bonjour {name},\nmerci pour votre demande. La voici :",
+      "confirmOutro": "Nous vous confirmons la réservation au plus vite. Pour toute question : 09 87 76 60 20.\n\nÀ bientôt rue du Hameau,\nL'équipe du Bistrot Le Dôme"
+    }
+  },
+  "footer": {
+    "tagline": "Bistrot de cuisine française, rue du Hameau, à deux pas de la Porte de Versailles.",
+    "nav": "Pages",
+    "contact": "Contact",
+    "hours": "Horaires",
+    "legal": "Mentions légales",
+    "rights": "© {year} Bistrot Le Dôme"
+  },
+  "pages": {
+    "carte": {
+      "title": "La carte",
+      "metaTitle": "La carte et les prix du Bistrot Le Dôme, Paris 15",
+      "metaDescription": "Escargots, bœuf bourguignon, confit de canard, entrecôte, crème brûlée : toute la carte du Bistrot Le Dôme avec ses prix, en français, anglais et espagnol.",
+      "h1": "La carte du Dôme",
+      "intro": "Les grands classiques du bistrot, les burgers, les desserts, la cave et le bar. Tous les prix sont en euros, service compris."
+    },
+    "reserver": {
+      "title": "Réserver",
+      "metaTitle": "Réserver une table au Bistrot Le Dôme, Paris 15",
+      "metaDescription": "Réservez votre table pour le déjeuner ou le dîner au Bistrot Le Dôme, 6 rue du Hameau, Paris 15, près de la Porte de Versailles. Réponse rapide.",
+      "h1": "Réserver une table",
+      "intro": "Déjeuner ou dîner, en couple ou entre collègues : envoyez votre demande, nous vous confirmons la table. Pour ce soir ou dans moins de deux heures, appelez plutôt."
+    },
+    "groupes": {
+      "title": "Groupes et salons",
+      "metaTitle": "Groupes, entreprises et salons à Paris Expo | Bistrot Le Dôme",
+      "metaDescription": "Déjeuners d'équipe, dîners d'exposants, privatisation : le Bistrot Le Dôme reçoit les groupes à 5 min à pied de Paris Expo. Demandez un devis.",
+      "h1": "Groupes, entreprises et salons",
+      "intro": "Équipes d'exposants, repas d'affaires, anniversaires ou privatisation complète : le Dôme vous reçoit à 5 minutes à pied de Paris Expo."
+    },
+    "portedeversailles": {
+      "title": "Restaurant Porte de Versailles",
+      "metaTitle": "Restaurant Porte de Versailles, bistrot français | Le Dôme",
+      "metaDescription": "Un restaurant français à la Porte de Versailles : escargots, bourguignon, confit et crème brûlée au Bistrot Le Dôme, rue du Hameau. 4,8/5 sur Google.",
+      "h1": "Un restaurant français à la Porte de Versailles",
+      "intro": "Le Bistrot Le Dôme est au 6 rue du Hameau, dans le 15e, à quelques minutes à pied de la place de la Porte de Versailles.",
+      "sections": [
+        {
+          "h": "Un vrai bistrot de quartier",
+          "p": [
+            "Façade noire, store bleu nuit, chaises de bistrot et suspensions dorées : le Dôme ressemble à ce qu'on attend d'un bistrot parisien. On y vient le midi entre voisins, le soir entre amis, et le bar reste ouvert pour l'apéritif."
+          ]
+        },
+        {
+          "h": "Ce qu'on y mange",
+          "p": [
+            "La carte tient aux classiques : escargots au beurre persillé, œuf mayonnaise, bœuf bourguignon, confit de canard et pommes sarladaises, entrecôte de bœuf français sauce au poivre. Côté desserts, crème brûlée, tiramisu maison et fondant au chocolat.",
+            "Pour ceux qui préfèrent, il y a aussi des burgers au bœuf Angus, des grandes salades et des planches à partager."
+          ]
+        },
+        {
+          "h": "Comment venir",
+          "p": [
+            "Métro Porte de Versailles (ligne 12) ou tramway T2 et T3a, puis quelques minutes à pied. Le restaurant est ouvert tous les jours."
+          ]
+        }
+      ]
+    },
+    "parisexpo": {
+      "title": "Restaurant près de Paris Expo",
+      "metaTitle": "Restaurant près de Paris Expo, à 5 min à pied | Le Dôme",
+      "metaDescription": "Déjeuner ou dîner près de Paris Expo : le Bistrot Le Dôme est à 5 min à pied du Parc des Expositions. Cuisine française, groupes, réservation.",
+      "h1": "Un restaurant à 5 minutes de Paris Expo",
+      "intro": "Vous exposez ou vous visitez un salon à la Porte de Versailles ? Depuis le boulevard Lefebvre, remontez la rue de la Croix-Nivert : le Dôme est au début de la rue du Hameau, à 5 minutes à pied.",
+      "sections": [
+        {
+          "h": "Depuis les halls",
+          "p": [
+            "Comptez 5 minutes à pied depuis le boulevard Lefebvre, face aux pavillons, par la rue de la Croix-Nivert, et environ 7 minutes depuis l'entrée principale, place de la Porte de Versailles."
+          ]
+        },
+        {
+          "h": "Déjeuner pendant un salon",
+          "p": [
+            "Le midi, le quartier est plein les jours de salon : réservez, même pour deux. Dites-nous si vous avez un rendez-vous sur votre stand, nous faisons de notre mieux pour vous servir à temps. Le plat du jour est affiché sur ce site chaque matin."
+          ]
+        },
+        {
+          "h": "Dîner d'équipe ou de clients",
+          "p": [
+            "Le soir, le Dôme reçoit les équipes d'exposants et les clients qu'elles invitent. Pour un groupe, envoyez la date, le nombre de personnes et votre budget : nous vous proposons un menu et une addition unique si besoin."
+          ]
+        }
+      ]
+    },
+    "legal": {
+      "title": "Mentions légales",
+      "metaTitle": "Mentions légales | Bistrot Le Dôme",
+      "metaDescription": "Mentions légales du site du Bistrot Le Dôme, 6 rue du Hameau, 75015 Paris.",
+      "h1": "Mentions légales"
+    }
+  },
+  "legal": {
+    "editor": "Éditeur du site",
+    "siret": "SIRET",
+    "director": "Directeur de la publication",
+    "host": "Hébergeur",
+    "photos": "Photos",
+    "photosText": "Photos du restaurant tirées de sa fiche Google et de son ancien site. Les visages des clients sont floutés.",
+    "data": "Données personnelles",
+    "dataText": "Les informations envoyées par les formulaires servent uniquement à répondre à votre demande. Elles ne sont ni revendues ni utilisées à des fins publicitaires. Pour les faire supprimer, écrivez à ledome92@gmail.com.",
+    "map": "Plan",
+    "mapText": "Plan du quartier © les contributeurs d'OpenStreetMap (licence ODbL).",
+    "toFill": "À compléter"
+  },
+  "slots": {
+    "bourguignon": "Bœuf bourguignon",
+    "confit": "Confit de canard",
+    "entrecote": "Entrecôte",
+    "creme-brulee": "Crème brûlée",
+    "vins": "La cave",
+    "equipe": "L'équipe du Dôme",
+    "soon": "Photo à venir"
+  },
+  "alt": {
+    "facade-soir": "La façade noire du Bistrot Le Dôme à la tombée du jour, store bleu nuit et vitrines éclairées",
+    "facade": "La façade du Bistrot Le Dôme, 6 rue du Hameau",
+    "ardoises": "Les ardoises devant le Bistrot Le Dôme, dont la suggestion du jour : bœuf bourguignon",
+    "salle": "La salle du Dôme : murs de briques, suspensions dorées, chaises de bistrot et comptoir",
+    "tables": "Tables dressées, sets en papier journal et serviettes bordeaux",
+    "escargots": "Six escargots de Bourgogne au beurre persillé dans leur plat en métal",
+    "burger-du-dome": "Le Burger du Dôme, double steak, œuf et cheddar, avec frites maison et salade",
+    "dorade": "Filets de dorade, riz et haricots verts, sauce vierge aux tomates et câpres",
+    "tiramisu": "Tiramisu maison servi en bocal",
+    "tireuses": "Les tireuses à bière du bar : Chouffe, Britt, Grimbergen, IPA",
+    "grimbergen": "Un verre de Grimbergen au comptoir",
+    "ardoises-bourguignon": "L'ardoise devant le Bistrot Le Dôme : suggestion du jour, bœuf bourguignon à 27,90 €"
+  }
+}

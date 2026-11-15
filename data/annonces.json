@@ -1,0 +1,10 @@
+{
+  "_comment": "Bandeau du haut (refermable). Il fait défiler : le plat du jour (data/menu-du-jour.json), puis les annonces datées en cours (salon à Paris Expo, fermeture, soirée…), puis le message « salons » par défaut. Une annonce : { id, from: AAAA-MM-JJ, to: AAAA-MM-JJ, fr, en, es }. Elle s'affiche seulement entre from et to.",
+  "salonDefault": {
+    "id": "salons",
+    "fr": "Salon en cours à Paris Expo ? Réservez votre table, à 5 minutes à pied",
+    "en": "At a trade fair in Paris Expo? Book your table, 5 minutes' walk away",
+    "es": "¿Feria en Paris Expo? Reserve su mesa, a 5 minutos a pie"
+  },
+  "items": []
+}

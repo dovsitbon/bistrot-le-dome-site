@@ -1,0 +1,304 @@
+{
+  "_comment": "La carte complète du site. Relevée le 2026-11-15 sur sa carte QR (WiiC). Chaque plat : fr = nom français (gardé en titre dans toutes les langues), en / es = traduction affichée dessous, d = description, p = prix (l = format, v = prix en euros), sig = grand classique mis en avant, veg = sans viande ni poisson. Pour changer un prix : modifiez « v » et poussez sur GitHub.",
+  "checked": "2026-11-15",
+  "categories": [
+    {
+      "id": "cuisine",
+      "fr": "Cuisine",
+      "en": "Food",
+      "es": "Cocina",
+      "sections": [
+        {
+          "id": "entrees",
+          "fr": "Entrées",
+          "en": "Starters",
+          "es": "Entrantes",
+          "items": [
+            { "id": "escargots", "fr": "Escargots de Bourgogne", "en": "Burgundy snails", "es": "Caracoles de Borgoña", "d": { "fr": "Au beurre persillé, par six ou par douze", "en": "In garlic and parsley butter, by six or twelve", "es": "Con mantequilla de ajo y perejil, por seis o doce" }, "p": [{ "l": "×6", "v": 9.9 }, { "l": "×12", "v": 17 }], "sig": true, "photo": "/media/plats/escargots.jpg" },
+            { "id": "oeuf-mayo", "fr": "Œuf mayonnaise", "en": "Egg mayonnaise", "es": "Huevo con mayonesa", "p": [{ "v": 8.9 }], "veg": true },
+            { "id": "hareng", "fr": "Filet de hareng sur charlotte", "en": "Herring fillet on Charlotte potatoes", "es": "Filete de arenque sobre patata charlotte", "p": [{ "v": 9.5 }] },
+            { "id": "sardines", "fr": "Salade de sardines", "en": "Sardine salad", "es": "Ensalada de sardinas", "p": [{ "v": 8.9 }] },
+            { "id": "tomate-mozza", "fr": "Tomate mozzarella", "en": "Tomato and mozzarella", "es": "Tomate y mozzarella", "p": [{ "v": 8.9 }], "veg": true },
+            { "id": "artichauts", "fr": "Salade aux cœurs d'artichauts", "en": "Artichoke heart salad", "es": "Ensalada de corazones de alcachofa", "p": [{ "v": 9.5 }], "veg": true },
+            { "id": "burrata", "fr": "Burrata et tomates", "en": "Burrata and tomatoes", "es": "Burrata y tomates", "p": [{ "v": 13.9 }], "veg": true }
+          ]
+        },
+        {
+          "id": "plats",
+          "fr": "Les plats du bistrot",
+          "en": "Bistro mains",
+          "es": "Platos del bistró",
+          "items": [
+            { "id": "bourguignon", "fr": "Bœuf bourguignon", "en": "Beef bourguignon", "es": "Ternera a la borgoñona", "d": { "fr": "Mijoté au vin rouge, pommes vapeur", "en": "Slow-cooked in red wine, steamed potatoes", "es": "Guisada al vino tinto, patatas al vapor" }, "p": [{ "v": 27.9 }], "sig": true },
+            { "id": "confit", "fr": "Confit de canard", "en": "Duck confit", "es": "Confit de pato", "d": { "fr": "Cuisse de canard confite, pommes sarladaises", "en": "Confit duck leg, Sarlat-style potatoes", "es": "Muslo de pato confitado, patatas a la sarladaise" }, "p": [{ "v": 28.9 }], "sig": true },
+            { "id": "entrecote", "fr": "Entrecôte", "en": "Rib-eye steak", "es": "Entrecot", "d": { "fr": "Viande bovine française (300 g), frites maison, salade, sauce au poivre", "en": "French beef (300 g), homemade fries, salad, pepper sauce", "es": "Ternera francesa (300 g), patatas fritas caseras, ensalada, salsa a la pimienta" }, "p": [{ "v": 34.9 }], "sig": true },
+            { "id": "piece-boucher", "fr": "Pièce du boucher", "en": "Butcher's cut", "es": "Corte del carnicero", "d": { "fr": "Cœur de rumsteck, frites maison, salade", "en": "Rump steak, homemade fries, salad", "es": "Corazón de cadera, patatas fritas caseras, ensalada" }, "p": [{ "v": 26.9 }] },
+            { "id": "joue-boeuf", "fr": "Joue de bœuf", "en": "Braised beef cheek", "es": "Carrillera de ternera", "d": { "fr": "Frites maison", "en": "Homemade fries", "es": "Patatas fritas caseras" }, "p": [{ "v": 21.9 }] },
+            { "id": "andouillette", "fr": "Andouillette", "en": "Andouillette sausage", "es": "Andouillette (embutido de tripa)", "d": { "fr": "Frites maison, salade", "en": "Homemade fries, salad", "es": "Patatas fritas caseras, ensalada" }, "p": [{ "v": 18.9 }] },
+            { "id": "steak-cheval", "fr": "Steak à cheval", "en": "Steak with a fried egg", "es": "Filete con huevo frito", "d": { "fr": "Steak haché frais (150 g), œuf, frites maison, salade", "en": "Fresh ground steak (150 g), egg, homemade fries, salad", "es": "Hamburguesa fresca (150 g), huevo, patatas fritas caseras, ensalada" }, "p": [{ "v": 21.9 }] },
+            { "id": "saumon", "fr": "Pavé de saumon", "en": "Salmon fillet", "es": "Lomo de salmón", "d": { "fr": "Riz, haricots verts", "en": "Rice, green beans", "es": "Arroz, judías verdes" }, "p": [{ "v": 25.9 }] },
+            { "id": "penne-saumon", "fr": "Penne au saumon frais", "en": "Penne with fresh salmon", "es": "Penne con salmón fresco", "p": [{ "v": 25.9 }] }
+          ]
+        },
+        {
+          "id": "burgers",
+          "fr": "Burgers",
+          "en": "Burgers",
+          "es": "Hamburguesas",
+          "note": { "fr": "Servis avec frites maison et salade", "en": "Served with homemade fries and salad", "es": "Con patatas fritas caseras y ensalada" },
+          "items": [
+            { "id": "burger-dome", "fr": "Burger du Dôme", "en": "The Dôme burger", "es": "Hamburguesa del Dôme", "d": { "fr": "Double steak Angus haché frais (150 g), œufs, coulis de cheddar", "en": "Double fresh Angus patty (150 g), eggs, cheddar sauce", "es": "Doble carne Angus fresca (150 g), huevos, salsa de cheddar" }, "p": [{ "v": 29.9 }], "photo": "/media/plats/burger-du-dome.jpg" },
+            { "id": "burger-bleu", "fr": "Burger bleu d'Auvergne", "en": "Bleu d'Auvergne burger", "es": "Hamburguesa de queso azul de Auvernia", "d": { "fr": "Steak Angus haché frais (150 g), bleu d'Auvergne", "en": "Fresh Angus patty (150 g), Bleu d'Auvergne cheese", "es": "Carne Angus fresca (150 g), queso azul de Auvernia" }, "p": [{ "v": 26.9 }] },
+            { "id": "burger-valais", "fr": "Burger Valais suisse", "en": "Swiss Valais burger", "es": "Hamburguesa Valais suiza", "d": { "fr": "Steak Angus haché frais (150 g), tomme vaudoise", "en": "Fresh Angus patty (150 g), Vaud tomme cheese", "es": "Carne Angus fresca (150 g), queso tomme de Vaud" }, "p": [{ "v": 25.9 }] },
+            { "id": "smash", "fr": "Smash burger", "en": "Smash burger", "es": "Smash burger", "d": { "fr": "Double steak Angus, tomate, oignon rouge, salade, coulis de cheddar", "en": "Double Angus patty, tomato, red onion, lettuce, cheddar sauce", "es": "Doble carne Angus, tomate, cebolla morada, lechuga, salsa de cheddar" }, "p": [{ "v": 21.9 }] },
+            { "id": "burger-chef", "fr": "Burger du chef", "en": "Chef's burger", "es": "Hamburguesa del chef", "d": { "fr": "Steak Angus haché frais (150 g), coulis de cheddar", "en": "Fresh Angus patty (150 g), cheddar sauce", "es": "Carne Angus fresca (150 g), salsa de cheddar" }, "p": [{ "v": 18.9 }] },
+            { "id": "burger-chicken", "fr": "Burger chicken", "en": "Chicken burger", "es": "Hamburguesa de pollo", "d": { "fr": "Poulet pané, coulis de cheddar", "en": "Breaded chicken, cheddar sauce", "es": "Pollo empanado, salsa de cheddar" }, "p": [{ "v": 17.9 }] },
+            { "id": "burger-veg", "fr": "Burger végétarien", "en": "Vegetarian burger", "es": "Hamburguesa vegetariana", "d": { "fr": "Double galette de pomme de terre, oignon, tomate, cheddar, salade", "en": "Double potato patty, onion, tomato, cheddar, lettuce", "es": "Doble tortita de patata, cebolla, tomate, cheddar, lechuga" }, "p": [{ "v": 17.9 }], "veg": true },
+            { "id": "burger-enfant", "fr": "Burger enfant", "en": "Kids' burger", "es": "Hamburguesa infantil", "d": { "fr": "Poulet, sauce cheddar, frites", "en": "Chicken, cheddar sauce, fries", "es": "Pollo, salsa de cheddar, patatas fritas" }, "p": [{ "v": 12.9 }] }
+          ]
+        },
+        {
+          "id": "salades",
+          "fr": "Grandes salades",
+          "en": "Main-course salads",
+          "es": "Ensaladas completas",
+          "items": [
+            { "id": "nicoise", "fr": "Salade niçoise", "en": "Niçoise salad", "es": "Ensalada nizarda", "d": { "fr": "Thon, anchois, olives, riz, haricots verts", "en": "Tuna, anchovies, olives, rice, green beans", "es": "Atún, anchoas, aceitunas, arroz, judías verdes" }, "p": [{ "v": 22.9 }] },
+            { "id": "pecheur", "fr": "Salade du pêcheur", "en": "Fisherman's salad", "es": "Ensalada del pescador", "d": { "fr": "Saumon fumé, crevettes, tomates", "en": "Smoked salmon, prawns, tomatoes", "es": "Salmón ahumado, gambas, tomates" }, "p": [{ "v": 21.9 }] },
+            { "id": "cesar", "fr": "Salade César", "en": "Caesar salad", "es": "Ensalada César", "d": { "fr": "Poulet pané, parmesan, croûtons, tomates", "en": "Breaded chicken, parmesan, croutons, tomatoes", "es": "Pollo empanado, parmesano, picatostes, tomates" }, "p": [{ "v": 20.9 }] },
+            { "id": "auvergnate", "fr": "Salade auvergnate", "en": "Auvergne salad", "es": "Ensalada de Auvernia", "d": { "fr": "Cantal, jambon, tomates, pommes sarladaises", "en": "Cantal cheese, ham, tomatoes, Sarlat-style potatoes", "es": "Queso Cantal, jamón, tomates, patatas a la sarladaise" }, "p": [{ "v": 19.9 }] }
+          ]
+        },
+        {
+          "id": "partager",
+          "fr": "Planches à partager",
+          "en": "Sharing boards",
+          "es": "Tablas para compartir",
+          "items": [
+            { "id": "planche-mixte", "fr": "Planche mixte", "en": "Mixed board", "es": "Tabla mixta", "d": { "fr": "Charcuterie et fromages", "en": "Cured meats and cheeses", "es": "Embutidos y quesos" }, "p": [{ "v": 35.9 }] },
+            { "id": "planche-charcut", "fr": "Planche charcuterie ou fromages", "en": "Cured meat or cheese board", "es": "Tabla de embutidos o de quesos", "p": [{ "v": 33.9 }] },
+            { "id": "tex-mex", "fr": "La Tex-Mex", "en": "Tex-Mex board", "es": "Tabla Tex-Mex", "d": { "fr": "Onion rings, mozza sticks, jalapeños, nuggets au cheddar", "en": "Onion rings, mozzarella sticks, jalapeños, cheddar nuggets", "es": "Aros de cebolla, palitos de mozzarella, jalapeños, nuggets de cheddar" }, "p": [{ "v": 29.9 }] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "fr": "Desserts",
+      "en": "Desserts",
+      "es": "Postres",
+      "sections": [
+        {
+          "id": "desserts",
+          "fr": "Desserts",
+          "en": "Desserts",
+          "es": "Postres",
+          "items": [
+            { "id": "creme-brulee", "fr": "Crème brûlée", "en": "Crème brûlée", "es": "Crème brûlée", "d": { "fr": "À la vanille, caramélisée à la commande", "en": "Vanilla custard, caramelised to order", "es": "De vainilla, caramelizada al momento" }, "p": [{ "v": 9.5 }], "sig": true },
+            { "id": "tiramisu", "fr": "Tiramisu maison", "en": "Homemade tiramisu", "es": "Tiramisú casero", "p": [{ "v": 9.5 }], "photo": "/media/desserts/tiramisu.jpg" },
+            { "id": "pain-perdu", "fr": "Brioche dorée façon pain perdu", "en": "Brioche French toast", "es": "Brioche dorado tipo torrija", "d": { "fr": "Dorée, caramélisée, servie avec une glace", "en": "Golden and caramelised, served with ice cream", "es": "Dorado y caramelizado, con helado" }, "p": [{ "v": 14.9 }] },
+            { "id": "pruneaux", "fr": "Pruneaux à l'armagnac", "en": "Prunes in Armagnac", "es": "Ciruelas al armañac", "p": [{ "v": 17.9 }] },
+            { "id": "fromages", "fr": "Assortiment de fromages", "en": "Cheese selection", "es": "Surtido de quesos", "p": [{ "v": 11.9 }], "veg": true },
+            { "id": "panacotta", "fr": "Panna cotta au coulis", "en": "Panna cotta with fruit coulis", "es": "Panna cotta con coulis", "p": [{ "v": 8.9 }] },
+            { "id": "fondant", "fr": "Fondant au chocolat", "en": "Chocolate fondant", "es": "Coulant de chocolate", "d": { "fr": "Boule de glace et chantilly", "en": "With a scoop of ice cream and whipped cream", "es": "Con una bola de helado y nata montada" }, "p": [{ "v": 8.5 }] },
+            { "id": "glace", "fr": "Une boule de glace", "en": "One scoop of ice cream", "es": "Una bola de helado", "p": [{ "v": 2 }] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vins",
+      "fr": "Vins",
+      "en": "Wines",
+      "es": "Vinos",
+      "sections": [
+        {
+          "id": "rouges",
+          "fr": "Vins rouges",
+          "en": "Red wines",
+          "es": "Vinos tintos",
+          "items": [
+            { "id": "cdr", "fr": "Côtes-du-Rhône", "d": { "fr": "AOP", "en": "AOP", "es": "AOP" }, "p": [{ "l": "14 cl", "v": 5.9 }, { "l": "75 cl", "v": 27 }] },
+            { "id": "bordeaux", "fr": "Bordeaux, Jean Dégraves", "d": { "fr": "AOP 2023", "en": "AOP 2023", "es": "AOP 2023" }, "p": [{ "l": "14 cl", "v": 6.9 }, { "l": "75 cl", "v": 31 }] },
+            { "id": "pinot", "fr": "Pinot noir", "p": [{ "l": "14 cl", "v": 8.9 }] },
+            { "id": "brouilly", "fr": "Brouilly", "p": [{ "l": "75 cl", "v": 39 }] },
+            { "id": "horizon-lynch", "fr": "Haut-Médoc, Horizon de Lynch", "d": { "fr": "Cabernet merlot 2023", "en": "Cabernet merlot 2023", "es": "Cabernet merlot 2023" }, "p": [{ "l": "14 cl", "v": 9.9 }, { "l": "75 cl", "v": 39 }] },
+            { "id": "lussac", "fr": "Lussac-Saint-Émilion, La Croix Saint-Roc", "d": { "fr": "2022", "en": "2022", "es": "2022" }, "p": [{ "l": "14 cl", "v": 9.9 }, { "l": "75 cl", "v": 42 }] },
+            { "id": "bourgogne", "fr": "Bourgogne pinot noir", "p": [{ "l": "75 cl", "v": 48 }] },
+            { "id": "chene", "fr": "Château Le Chêne", "d": { "fr": "Haut-Médoc 2020", "en": "Haut-Médoc 2020", "es": "Haut-Médoc 2020" }, "p": [{ "l": "75 cl", "v": 49 }] },
+            { "id": "marcillanet", "fr": "Château Tour Marcillanet", "d": { "fr": "Haut-Médoc", "en": "Haut-Médoc", "es": "Haut-Médoc" }, "p": [{ "l": "75 cl", "v": 59 }] },
+            { "id": "rocs-marchand", "fr": "Château Rocs de Marchand", "d": { "fr": "Montagne-Saint-Émilion 2023", "en": "Montagne-Saint-Émilion 2023", "es": "Montagne-Saint-Émilion 2023" }, "p": [{ "l": "75 cl", "v": 59 }] },
+            { "id": "pauillac", "fr": "Pauillac", "d": { "fr": "AOC Pauillac 2023", "en": "AOC Pauillac 2023", "es": "AOC Pauillac 2023" }, "p": [{ "l": "75 cl", "v": 65 }] },
+            { "id": "estephe", "fr": "Saint-Estèphe, Fort du Mirail", "p": [{ "l": "75 cl", "v": 68 }] },
+            { "id": "margaux", "fr": "Margaux, Duc de Fondalon", "d": { "fr": "AOC Margaux 2023", "en": "AOC Margaux 2023", "es": "AOC Margaux 2023" }, "p": [{ "l": "75 cl", "v": 78 }] },
+            { "id": "rothschild", "fr": "Edmond de Rothschild", "p": [{ "l": "75 cl", "v": 89 }] },
+            { "id": "batailley", "fr": "Château Batailley", "d": { "fr": "Pauillac, grand cru classé en 1855", "en": "Pauillac, Grand Cru Classé in 1855", "es": "Pauillac, Grand Cru Classé en 1855" }, "p": [{ "l": "75 cl", "v": 118 }] }
+          ]
+        },
+        {
+          "id": "roses",
+          "fr": "Rosés et bulles",
+          "en": "Rosé and sparkling",
+          "es": "Rosados y espumosos",
+          "items": [
+            { "id": "rose-verre", "fr": "Rosé au verre", "p": [{ "l": "14 cl", "v": 5.5 }] },
+            { "id": "roseberry", "fr": "Roseberry, 100 % malbec", "d": { "fr": "IGP 2022", "en": "IGP 2022", "es": "IGP 2022" }, "p": [{ "l": "75 cl", "v": 33 }] },
+            { "id": "provence", "fr": "Côtes-de-Provence, Domaine Saint-Andrieu", "d": { "fr": "2022", "en": "2022", "es": "2022" }, "p": [{ "l": "75 cl", "v": 39 }] },
+            { "id": "prosecco", "fr": "Prosecco", "p": [{ "l": "14 cl", "v": 6.9 }, { "l": "75 cl", "v": 30 }] },
+            { "id": "champagne", "fr": "Champagne", "p": [{ "l": "75 cl", "v": 75 }] }
+          ]
+        },
+        {
+          "id": "blancs",
+          "fr": "Vins blancs",
+          "en": "White wines",
+          "es": "Vinos blancos",
+          "items": [
+            { "id": "chardonnay", "fr": "Chardonnay, Pays d'Oc", "d": { "fr": "IGP 2020", "en": "IGP 2020", "es": "IGP 2020" }, "p": [{ "l": "14 cl", "v": 5.9 }, { "l": "75 cl", "v": 27 }] },
+            { "id": "sancerre", "fr": "Sancerre, Domaine Gérard et Hubert Thirot", "p": [{ "l": "75 cl", "v": 59 }] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bar",
+      "fr": "Bar",
+      "en": "Bar",
+      "es": "Bar",
+      "sections": [
+        {
+          "id": "cocktails",
+          "fr": "Cocktails",
+          "en": "Cocktails",
+          "es": "Cócteles",
+          "items": [
+            { "id": "mojito", "fr": "Mojito", "d": { "fr": "Rhum, citron vert, menthe, eau gazeuse", "en": "Rum, lime, mint, sparkling water", "es": "Ron, lima, menta, agua con gas" }, "p": [{ "v": 12.9 }] },
+            { "id": "spritz", "fr": "Apérol Spritz", "d": { "fr": "Prosecco, Apérol, eau gazeuse, orange", "en": "Prosecco, Aperol, soda, orange", "es": "Prosecco, Aperol, soda, naranja" }, "p": [{ "v": 13.9 }] },
+            { "id": "espresso-martini", "fr": "Espresso martini", "d": { "fr": "Vodka, liqueur de café, café", "en": "Vodka, coffee liqueur, espresso", "es": "Vodka, licor de café, café" }, "p": [{ "v": 12.9 }] },
+            { "id": "pina", "fr": "Piña colada", "d": { "fr": "Rhum, ananas, crème de coco", "en": "Rum, pineapple, coconut cream", "es": "Ron, piña, crema de coco" }, "p": [{ "v": 13.9 }] },
+            { "id": "white-russian", "fr": "White Russian", "d": { "fr": "Vodka, liqueur de café, crème", "en": "Vodka, coffee liqueur, cream", "es": "Vodka, licor de café, nata" }, "p": [{ "v": 12.9 }] },
+            { "id": "moscow", "fr": "Moscow mule", "d": { "fr": "Vodka, ginger beer, citron", "en": "Vodka, ginger beer, lime", "es": "Vodka, ginger beer, limón" }, "p": [{ "v": 11.9 }] },
+            { "id": "sunrise", "fr": "Tequila sunrise", "d": { "fr": "Tequila, orange, grenadine", "en": "Tequila, orange, grenadine", "es": "Tequila, naranja, granadina" }, "p": [{ "v": 11.9 }] },
+            { "id": "fizz", "fr": "Gin fizz", "d": { "fr": "Gin, citron, sucre, eau gazeuse", "en": "Gin, lemon, sugar, soda", "es": "Ginebra, limón, azúcar, soda" }, "p": [{ "v": 11.9 }] },
+            { "id": "caipi", "fr": "Caïpirinha", "d": { "fr": "Cachaça, citron vert, sucre", "en": "Cachaça, lime, sugar", "es": "Cachaça, lima, azúcar" }, "p": [{ "v": 11.9 }] },
+            { "id": "sex-beach", "fr": "Sex on the beach", "d": { "fr": "Vodka, Grand Marnier, orange, cranberry", "en": "Vodka, Grand Marnier, orange, cranberry", "es": "Vodka, Grand Marnier, naranja, arándano" }, "p": [{ "v": 14.9 }] },
+            { "id": "malibu-sunrise", "fr": "Malibu sunrise", "d": { "fr": "Malibu, rhum, ananas, grenadine", "en": "Malibu, rum, pineapple, grenadine", "es": "Malibu, ron, piña, granadina" }, "p": [{ "v": 13.9 }] }
+          ]
+        },
+        {
+          "id": "mocktails",
+          "fr": "Sans alcool",
+          "en": "Alcohol-free",
+          "es": "Sin alcohol",
+          "items": [
+            { "id": "dome-mocktail", "fr": "Dôme mocktail", "d": { "fr": "Ginger beer, limonade, citron, sirop de cerise", "en": "Ginger beer, lemonade, lemon, cherry syrup", "es": "Ginger beer, limonada, limón, sirope de cereza" }, "p": [{ "v": 11.9 }] },
+            { "id": "virgin-mojito", "fr": "Virgin mojito", "d": { "fr": "Citron vert, menthe fraîche, eau gazeuse", "en": "Lime, fresh mint, sparkling water", "es": "Lima, menta fresca, agua con gas" }, "p": [{ "v": 11.9 }] },
+            { "id": "tropical", "fr": "Sunrise tropical", "d": { "fr": "Orange, ananas, sirop tropical", "en": "Orange, pineapple, tropical syrup", "es": "Naranja, piña, sirope tropical" }, "p": [{ "v": 11.9 }] },
+            { "id": "pina-virgin", "fr": "Piña colada sans alcool", "d": { "fr": "Ananas, crème de coco, sucre de canne", "en": "Pineapple, coconut cream, cane sugar", "es": "Piña, crema de coco, azúcar de caña" }, "p": [{ "v": 11.9 }] },
+            { "id": "jus-presse", "fr": "Jus d'orange pressé", "en": "Fresh orange juice", "es": "Zumo de naranja natural", "p": [{ "v": 9 }] }
+          ]
+        },
+        {
+          "id": "bieres",
+          "fr": "Bières",
+          "en": "Beers",
+          "es": "Cervezas",
+          "items": [
+            { "id": "biere-moment", "fr": "Bière du moment", "en": "Beer of the moment", "es": "Cerveza del momento", "p": [{ "l": "25 cl", "v": 4 }, { "l": "50 cl", "v": 7 }] },
+            { "id": "grimbergen", "fr": "Grimbergen", "p": [{ "l": "25 cl", "v": 5 }, { "l": "50 cl", "v": 9.5 }] },
+            { "id": "jad", "fr": "Jad blanche, malt bio", "p": [{ "l": "25 cl", "v": 5.9 }, { "l": "50 cl", "v": 9.5 }] },
+            { "id": "chouffe", "fr": "La Chouffe", "p": [{ "l": "25 cl", "v": 6.5 }, { "l": "50 cl", "v": 11.9 }] },
+            { "id": "ipa", "fr": "IPA, La Cadette", "p": [{ "l": "25 cl", "v": 6.5 }, { "l": "50 cl", "v": 11.9 }] },
+            { "id": "guinness", "fr": "Guinness", "d": { "fr": "En bouteille", "en": "Bottled", "es": "En botella" }, "p": [{ "v": 9 }] },
+            { "id": "sans-alcool", "fr": "Bière sans alcool", "en": "Alcohol-free beer", "es": "Cerveza sin alcohol", "p": [{ "v": 4.5 }] }
+          ]
+        },
+        {
+          "id": "aperitifs",
+          "fr": "Apéritifs",
+          "en": "Aperitifs",
+          "es": "Aperitivos",
+          "items": [
+            { "id": "pastis", "fr": "Ricard", "p": [{ "l": "2 cl", "v": 6 }] },
+            { "id": "kir", "fr": "Kir au chardonnay", "p": [{ "l": "14 cl", "v": 6 }] },
+            { "id": "suze", "fr": "Suze ou porto", "p": [{ "l": "6 cl", "v": 7 }] },
+            { "id": "gin-tonic", "fr": "Gin tonic", "p": [{ "v": 9 }] },
+            { "id": "kir-royal", "fr": "Kir royal", "p": [{ "l": "14 cl", "v": 14 }] }
+          ]
+        },
+        {
+          "id": "spiritueux",
+          "fr": "Digestifs et spiritueux",
+          "en": "Digestifs and spirits",
+          "es": "Digestivos y licores",
+          "note": { "fr": "Servis en 4 cl", "en": "Served as 4 cl measures", "es": "Servidos en 4 cl" },
+          "items": [
+            { "id": "calvados", "fr": "Calvados", "p": [{ "v": 7 }] },
+            { "id": "amaretto", "fr": "Amaretto San Pietro", "p": [{ "v": 7 }] },
+            { "id": "jet-baileys", "fr": "Get 27, Get 31 ou Baileys", "p": [{ "v": 8 }] },
+            { "id": "rhum-maison", "fr": "Rhum arrangé maison", "en": "Homemade infused rum", "es": "Ron macerado casero", "p": [{ "v": 9 }] },
+            { "id": "havana", "fr": "Rhum Havana Club", "p": [{ "v": 9 }] },
+            { "id": "litchi", "fr": "Soho litchi ou Malibu", "d": { "fr": "Avec coca ou jus de fruits", "en": "With cola or fruit juice", "es": "Con cola o zumo" }, "p": [{ "v": 9 }] },
+            { "id": "cognac-vs", "fr": "Cognac VS", "p": [{ "v": 10 }] },
+            { "id": "armagnac", "fr": "Armagnac", "p": [{ "v": 10 }] },
+            { "id": "gin-london", "fr": "Gin London Dry", "p": [{ "v": 10 }] },
+            { "id": "black-spiced", "fr": "Rhum Black Spiced", "p": [{ "v": 10 }] },
+            { "id": "jack", "fr": "Whiskey Jack Daniel's", "p": [{ "v": 11 }] },
+            { "id": "san-lino", "fr": "Rhum San Lino, Cuba", "p": [{ "v": 11 }] },
+            { "id": "vieille-prune", "fr": "Vieille prune élevée en fût", "en": "Cask-aged plum brandy", "es": "Aguardiente de ciruela envejecido en barrica", "p": [{ "v": 11 }] },
+            { "id": "monkey", "fr": "Whisky Monkey Shoulder", "p": [{ "v": 12 }] },
+            { "id": "cognac-vanille", "fr": "Liqueur au cognac et à la vanille", "en": "Cognac and vanilla liqueur", "es": "Licor de coñac y vainilla", "p": [{ "v": 12 }] },
+            { "id": "cafe-cognac", "fr": "Liqueur café et cognac", "en": "Coffee and cognac liqueur", "es": "Licor de café y coñac", "p": [{ "v": 12 }] },
+            { "id": "limoncello", "fr": "Limoncello", "p": [{ "v": 12 }] },
+            { "id": "diplomatico", "fr": "Rhum Diplomático", "p": [{ "v": 13 }] },
+            { "id": "blossom", "fr": "Gin Blossom Costa Blanca", "p": [{ "v": 13 }] },
+            { "id": "grand-marnier", "fr": "Grand Marnier", "p": [{ "v": 13 }] },
+            { "id": "alba-lupa", "fr": "Vodka Alba Lupa", "p": [{ "v": 13 }] },
+            { "id": "mandarine", "fr": "Mandarine Napoléon", "p": [{ "v": 13 }] },
+            { "id": "don-papa", "fr": "Rhum Don Papa Baroko", "p": [{ "v": 15 }] },
+            { "id": "blossom-peach", "fr": "Gin Blossom Peach", "p": [{ "v": 15 }] },
+            { "id": "cognac-xo", "fr": "Cognac XO", "p": [{ "v": 15 }] },
+            { "id": "nikka", "fr": "Whisky Nikka", "p": [{ "v": 15 }] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "boissons",
+      "fr": "Café et softs",
+      "en": "Coffee and soft drinks",
+      "es": "Café y refrescos",
+      "sections": [
+        {
+          "id": "chaudes",
+          "fr": "Boissons chaudes",
+          "en": "Hot drinks",
+          "es": "Bebidas calientes",
+          "items": [
+            { "id": "expresso", "fr": "Expresso, allongé ou noisette", "en": "Espresso, americano or macchiato", "es": "Expreso, americano o cortado", "p": [{ "v": 2.5 }] },
+            { "id": "creme", "fr": "Café crème", "en": "Coffee with hot milk", "es": "Café con leche", "p": [{ "v": 5.5 }] },
+            { "id": "chocolat", "fr": "Chocolat chaud", "en": "Hot chocolate", "es": "Chocolate caliente", "p": [{ "v": 6.5 }] },
+            { "id": "viennois", "fr": "Café viennois ou cappuccino", "en": "Viennese coffee or cappuccino", "es": "Café vienés o capuchino", "p": [{ "v": 7.9 }] },
+            { "id": "the", "fr": "Thé ou tisane", "en": "Tea or herbal tea", "es": "Té o infusión", "p": [{ "v": 7.9 }] }
+          ]
+        },
+        {
+          "id": "softs",
+          "fr": "Boissons fraîches",
+          "en": "Soft drinks",
+          "es": "Refrescos",
+          "items": [
+            { "id": "jus", "fr": "Jus de fruits pressés", "en": "Freshly squeezed juice", "es": "Zumo natural", "p": [{ "v": 9 }] },
+            { "id": "coca", "fr": "Coca-Cola", "p": [{ "l": "33 cl", "v": 5.5 }] },
+            { "id": "orangina", "fr": "Orangina, limonade, Sprite ou Fanta", "p": [{ "l": "25 cl", "v": 4.9 }] },
+            { "id": "jus-bouteille", "fr": "Jus d'ananas ou de pomme", "en": "Pineapple or apple juice", "es": "Zumo de piña o de manzana", "p": [{ "l": "25 cl", "v": 4.9 }] },
+            { "id": "fuze", "fr": "Fuze Tea", "p": [{ "v": 4.9 }] },
+            { "id": "eau-plate", "fr": "Vittel ou Evian", "p": [{ "l": "25 cl", "v": 4.9 }, { "l": "1 L", "v": 7.9 }] },
+            { "id": "badoit", "fr": "Badoit", "p": [{ "l": "33 cl", "v": 5.5 }, { "l": "1 L", "v": 7.9 }] },
+            { "id": "vals", "fr": "Eau gazeuse Vals", "d": { "fr": "Grande bouteille", "en": "Large bottle", "es": "Botella grande" }, "p": [{ "v": 7.9 }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

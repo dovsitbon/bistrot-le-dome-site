@@ -1,0 +1,451 @@
+{
+  "meta": {
+    "title": "Bistró francés cerca de Porte de Versailles, París 15 | Le Dôme",
+    "description": "Caracoles, bœuf bourguignon, confit y crème brûlée en el Bistrot Le Dôme, a 5 min a pie de Paris Expo. 4,8/5 en Google. Reserve en línea.",
+    "ogAlt": "La fachada negra del Bistrot Le Dôme, en la rue du Hameau, al atardecer"
+  },
+  "intro": {
+    "skip": "Saltar",
+    "tagline": "BISTROT · PARIS"
+  },
+  "nav": {
+    "skip": "Ir al contenido",
+    "main": "Navegación principal",
+    "home": "inicio",
+    "carte": "La carta",
+    "daily": "Plato del día",
+    "groupes": "Grupos",
+    "acces": "Cómo llegar",
+    "infos": "Información",
+    "reserve": "Reservar mesa",
+    "reserveShort": "Reservar",
+    "call": "Llamar",
+    "callAria": "Llamar al restaurante al {phone}",
+    "openMenu": "Abrir el menú",
+    "close": "Cerrar",
+    "lang": "Idioma",
+    "instagram": "Le Dôme en Instagram",
+    "directions": "Cómo llegar",
+    "seeMenu": "Ver la carta",
+    "giftCard": "Tarjeta regalo",
+    "breadcrumb": "Ruta de navegación"
+  },
+  "announce": {
+    "close": "Cerrar el aviso",
+    "daily": "Plato del día: {dish} · {price}"
+  },
+  "status": {
+    "open": "Abierto ahora",
+    "closed": "Cerrado ahora",
+    "until": "hasta las {time}",
+    "opens": "abre {day} a las {time}",
+    "today": "hoy",
+    "tomorrow": "mañana"
+  },
+  "rating": {
+    "label": "{value}/5 en Google",
+    "count": "casi {rounded} reseñas",
+    "aria": "Nota en Google: {value} sobre 5, {count} reseñas. Abrir la ficha de Google"
+  },
+  "hero": {
+    "eyebrow": "Bistró francés · Porte de Versailles · París 15",
+    "title": "La auténtica cocina de bistró",
+    "sub": "Caracoles, bœuf bourguignon, confit de pato, crème brûlée. En la rue du Hameau, a 5 minutos a pie de Paris Expo."
+  },
+  "tiles": {
+    "label": "Lo que se viene a comer al Dôme",
+    "items": {
+      "daily": {
+        "label": "Plato del día",
+        "sub": "La pizarra de hoy"
+      },
+      "entrees": {
+        "label": "Entrantes",
+        "sub": "Caracoles, huevo mayo, burrata"
+      },
+      "plats": {
+        "label": "Platos",
+        "sub": "Bourguignon, confit, entrecot"
+      },
+      "desserts": {
+        "label": "Postres",
+        "sub": "Crème brûlée, tiramisú"
+      },
+      "vins": {
+        "label": "Vinos",
+        "sub": "Burdeos, Borgoña, por copas"
+      }
+    }
+  },
+  "services": {
+    "label": "Le Dôme en cuatro puntos",
+    "items": [
+      {
+        "id": "maison",
+        "title": "Cocina francesa casera",
+        "text": "Producto fresco y platos hechos aquí, patatas fritas caseras incluidas."
+      },
+      {
+        "id": "expo",
+        "title": "A 5 minutos de Paris Expo",
+        "text": "Coma entre dos reuniones y vuelva a la feria a pie."
+      },
+      {
+        "id": "groupes",
+        "title": "Grupos y empresas",
+        "text": "Comidas de equipo, cenas de feria, privatización con presupuesto."
+      },
+      {
+        "id": "resa",
+        "title": "Reserva sencilla",
+        "text": "En línea en un minuto o por teléfono al {phone}."
+      }
+    ]
+  },
+  "daily": {
+    "eyebrow": "En la pizarra",
+    "title": "El plato del día",
+    "slate": "Hoy en Le Dôme",
+    "updated": "Pizarra actualizada el {date}",
+    "intro": "Cada día, la cocina propone una sugerencia además de la carta. Pregunte también por la pizarra en sala.",
+    "empty": "La pizarra de hoy se está escribiendo: pregunte en sala o llámenos.",
+    "cta": "Reservar para hoy"
+  },
+  "carte": {
+    "eyebrow": "La carta",
+    "title": "Los grandes clásicos franceses",
+    "intro": "Toda la carta del Dôme con sus precios: entrantes, platos de bistró, hamburguesas, postres, vinos y bar. Los platos conservan su nombre francés, con la traducción debajo.",
+    "tabs": "Categorías de la carta",
+    "euros": "Precios en euros, servicio incluido.",
+    "checked": "Carta consultada el {date}. Puede cambiar según la temporada: la pizarra del restaurante es la referencia.",
+    "allergens": "¿Alergias o una dieta especial? Díganoslo al reservar y al pedir.",
+    "veg": "Vegetariano",
+    "sig": "Gran clásico",
+    "seeFull": "Ver toda la carta",
+    "frenchName": "Nombre francés"
+  },
+  "blocks": {
+    "classics": {
+      "eyebrow": "La cocina",
+      "title": "Los grandes clásicos, como deben ser",
+      "text": "Caracoles con mantequilla de ajo y perejil, bœuf bourguignon guisado al vino tinto, confit de pato con patatas a la sarladaise, entrecot con salsa a la pimienta. Para terminar, una crème brûlée que cruje bajo la cuchara.",
+      "cta": "Ver la carta"
+    },
+    "salons": {
+      "eyebrow": "Paris Expo",
+      "title": "¿Una feria en Porte de Versailles?",
+      "text": "Le Dôme está a 5 minutos a pie del recinto ferial. A mediodía, avísenos si tiene que volver a su stand y haremos lo posible por servirle a tiempo. Por la noche recibimos a los equipos de expositores y a los clientes que invitan.",
+      "cta": "Reservar para un grupo"
+    },
+    "bistrot": {
+      "eyebrow": "El bistró",
+      "title": "Una casa de barrio, abierta a todos",
+      "text": "Fachada negra, toldo azul noche, sillas de bistró, ladrillo y lámparas doradas. Los vecinos del distrito 15 vienen a comer, visitantes de todo el mundo descubren aquí la cocina francesa y el bar sirve el aperitivo en happy hour.",
+      "cta": "Cómo llegar"
+    }
+  },
+  "groups": {
+    "eyebrow": "Grupos y empresas",
+    "title": "Comidas de equipo, cenas de feria, privatización",
+    "intro": "Para una comida de negocios, un equipo de expositores, un cumpleaños o una velada de empresa, Le Dôme le recibe y se puede privatizar. Indíquenos la fecha, el número de personas y su presupuesto: le responderemos con una propuesta.",
+    "kinds": [
+      {
+        "title": "Expositores y visitantes de ferias",
+        "text": "Una comida rápida para todo el equipo o una cena para sus clientes, a 5 minutos de los pabellones."
+      },
+      {
+        "title": "Comidas de empresa",
+        "text": "Comida de equipo, seminario, despedida: menú cerrado de antemano y cuenta única si lo desea."
+      },
+      {
+        "title": "Fiestas y privatización",
+        "text": "Cumpleaños, cóctel, recepción: todo el bistró para su grupo, con presupuesto."
+      }
+    ],
+    "large": "¿Más de {max} personas? Llámenos al {phone}."
+  },
+  "reviews": {
+    "eyebrow": "Opiniones",
+    "title": "{value}/5 en Google, casi {rounded} reseñas",
+    "text": "Una nota poco habitual para un bistró. Esto es lo que más mencionan los clientes en sus reseñas de Google.",
+    "mentions": "{count} reseñas",
+    "themes": {
+      "escargots": "Los caracoles",
+      "bourguignon": "El bœuf bourguignon",
+      "cuisine": "La cocina francesa",
+      "baguette": "La baguette",
+      "confit": "El confit de pato",
+      "creme": "La crème brûlée",
+      "entrecote": "El entrecot"
+    },
+    "checked": "Datos de la ficha de Google, consultada el {date}.",
+    "readAll": "Leer las reseñas en Google"
+  },
+  "access": {
+    "eyebrow": "Cómo llegar",
+    "title": "6 rue du Hameau, París 15",
+    "intro": "Al principio de la rue du Hameau, junto a la rue de la Croix-Nivert, a 5 minutos a pie de Porte de Versailles.",
+    "transportTitle": "En transporte público",
+    "metro": "Metro Porte de Versailles (línea 12), unos {min} min a pie",
+    "metro2": "Metro Convention (línea 12), unos {min} min a pie",
+    "tram": "Tranvía T2 y T3a, parada Porte de Versailles – Parc des Expositions",
+    "walkTitle": "A pie desde Paris Expo",
+    "walkEdge": "Boulevard Lefebvre, frente a los pabellones: {min} min",
+    "walkMain": "Entrada principal, place de la Porte de Versailles: {min} min",
+    "walkNote": "Tiempos a pie calculados con OpenStreetMap.",
+    "hoursTitle": "Horario",
+    "everyDay": "Todos los días",
+    "happyHour": "Happy hour en el bar de lunes a sábado, de {from} a {to}.",
+    "practical": "Información útil",
+    "payment": "Visa, Mastercard, American Express, efectivo, tickets restaurante",
+    "pmr": "Accesible para personas con movilidad reducida",
+    "terrace": "Terraza con buen tiempo",
+    "mapAlt": "Plano del barrio: el Bistrot Le Dôme, en la rue du Hameau, al norte del recinto ferial de Porte de Versailles",
+    "mapCredit": "Plano © colaboradores de OpenStreetMap",
+    "openMaps": "Abrir en Google Maps"
+  },
+  "infos": {
+    "days": [
+      "Lunes",
+      "Martes",
+      "Miércoles",
+      "Jueves",
+      "Viernes",
+      "Sábado",
+      "Domingo"
+    ],
+    "closed": "Cerrado"
+  },
+  "faq": {
+    "eyebrow": "Información práctica",
+    "title": "Sus preguntas",
+    "items": [
+      {
+        "q": "¿Hay que reservar?",
+        "a": "Se recomienda por la noche y durante las grandes ferias de Paris Expo, cuando el barrio se llena. Reserve en línea o llame al +33 9 87 76 60 20. Sin reserva, le sentamos si queda sitio."
+      },
+      {
+        "q": "¿Reciben grupos y empresas?",
+        "a": "Sí: comidas de equipo, cenas de expositores, cumpleaños y privatización. Envíe la fecha, el número de personas y su presupuesto con el formulario de grupos y le responderemos con una propuesta."
+      },
+      {
+        "q": "¿Hay platos vegetarianos?",
+        "a": "Sí: hamburguesa vegetariana, burrata con tomates, tomate y mozzarella, ensalada de corazones de alcachofa, huevo con mayonesa, quesos y postres. Indíquenos sus restricciones al reservar."
+      },
+      {
+        "q": "¿Tienen menú infantil?",
+        "a": "Hay una hamburguesa infantil (pollo, salsa de cheddar, patatas fritas) a 12,90 €. Le Dôme es un restaurante familiar y los niños son bienvenidos."
+      },
+      {
+        "q": "¿Qué formas de pago aceptan?",
+        "a": "Tarjetas Visa, Mastercard y American Express, efectivo y tickets restaurante franceses."
+      },
+      {
+        "q": "¿Hablan inglés o español?",
+        "a": "Esta web y toda la carta están en francés, inglés y español: téngala abierta en el móvil para pedir. Para solicitudes por escrito, escríbanos en el idioma que prefiera."
+      },
+      {
+        "q": "¿El restaurante es accesible en silla de ruedas?",
+        "a": "Sí, el restaurante es accesible para personas con movilidad reducida. Avísenos al reservar y le preparamos una mesa cómoda."
+      }
+    ]
+  },
+  "form": {
+    "tableTitle": "Reservar mesa",
+    "tableIntro": "Elija el día, el servicio y la hora. Le confirmamos la mesa por correo o por teléfono.",
+    "groupTitle": "Solicitud para un grupo",
+    "groupIntro": "Empresa, feria o celebración: cuéntenos su proyecto y le responderemos con una propuesta.",
+    "day": "Fecha",
+    "service": "Servicio",
+    "services": {
+      "lunch": "Comida",
+      "dinner": "Cena"
+    },
+    "time": "Hora",
+    "guests": "Número de personas",
+    "company": "Empresa o feria",
+    "budget": "Presupuesto por persona",
+    "budgetPh": "Por ejemplo 35 €",
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "messagePh": "Alergias, trona, ocasión especial…",
+    "groupMessagePh": "La feria, cómo imagina la velada, menú cerrado o a la carta…",
+    "optional": "opcional",
+    "noSlot": "El restaurante cierra ese día.",
+    "bigGroup": "¿Más de {max} personas? Haga una solicitud de grupo.",
+    "submitTable": "Enviar mi solicitud de reserva",
+    "submitGroup": "Enviar mi solicitud",
+    "sending": "Enviando…",
+    "privacy": "Sus datos solo se usan para responderle.",
+    "orCall": "¿Prefiere llamar? {phone}",
+    "errors": {
+      "required": "Este campo es obligatorio.",
+      "day": "Elija una fecha futura.",
+      "time": "Elija una hora.",
+      "guests": "Entre {min} y {max} personas.",
+      "phone": "Este número de teléfono no parece válido.",
+      "email": "Esta dirección de correo no parece válida.",
+      "generic": "El envío ha fallado. Inténtelo de nuevo o llámenos al {phone}."
+    },
+    "done": {
+      "title": "Gracias, su solicitud se ha enviado",
+      "text": "Le Dôme le confirmará la reserva lo antes posible por correo o por teléfono. Acaba de recibir un resumen en su correo.",
+      "titleReady": "Su solicitud está lista",
+      "noMail": "El envío automático aún no está activado. Envíe este mensaje por correo con un clic o llámenos: la reserva solo queda confirmada tras nuestra respuesta.",
+      "mailCta": "Enviar por correo",
+      "callCta": "Llamar al {phone}",
+      "wa": "WhatsApp se ha abierto con su solicitud: solo falta enviarla.",
+      "waCta": "Abrir WhatsApp",
+      "again": "Hacer otra solicitud"
+    },
+    "mail": {
+      "subjectTable": "Solicitud de reserva",
+      "subjectGroup": "Solicitud de grupo",
+      "titleTable": "Nueva solicitud de reserva",
+      "titleGroup": "Nueva solicitud de grupo",
+      "date": "Fecha",
+      "service": "Servicio",
+      "guests": "Personas",
+      "company": "Empresa o feria",
+      "budget": "Presupuesto por persona",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "email": "Correo",
+      "message": "Mensaje",
+      "lang": "Idioma del cliente",
+      "confirmSubject": "Su solicitud en el Bistrot Le Dôme",
+      "confirmIntro": "Hola {name}:\ngracias por su solicitud. Aquí la tiene:",
+      "confirmOutro": "Le confirmaremos la reserva lo antes posible. Para cualquier pregunta: +33 9 87 76 60 20.\n\nHasta pronto en la rue du Hameau,\nEl equipo del Bistrot Le Dôme"
+    }
+  },
+  "footer": {
+    "tagline": "Bistró de cocina francesa en la rue du Hameau, a un paso de Porte de Versailles.",
+    "nav": "Páginas",
+    "contact": "Contacto",
+    "hours": "Horario",
+    "legal": "Aviso legal",
+    "rights": "© {year} Bistrot Le Dôme"
+  },
+  "pages": {
+    "carte": {
+      "title": "La carta",
+      "metaTitle": "La carta y los precios del Bistrot Le Dôme, París 15",
+      "metaDescription": "Caracoles, bœuf bourguignon, confit de pato, entrecot, crème brûlée: toda la carta del Bistrot Le Dôme con precios, en español, francés e inglés.",
+      "h1": "La carta del Dôme",
+      "intro": "Clásicos de bistró, hamburguesas, postres, bodega y bar. Los platos conservan su nombre francés, con la traducción debajo. Precios en euros, servicio incluido."
+    },
+    "reserver": {
+      "title": "Reservar",
+      "metaTitle": "Reservar mesa en el Bistrot Le Dôme, París 15",
+      "metaDescription": "Reserve su mesa para comer o cenar en el Bistrot Le Dôme, 6 rue du Hameau, París 15, cerca de Porte de Versailles. Respuesta rápida.",
+      "h1": "Reservar mesa",
+      "intro": "Comida o cena, en pareja o con compañeros: envíe su solicitud y le confirmamos la mesa. Para esta noche o dentro de menos de dos horas, mejor llame."
+    },
+    "groupes": {
+      "title": "Grupos y ferias",
+      "metaTitle": "Grupos, empresas y ferias en Paris Expo | Bistrot Le Dôme",
+      "metaDescription": "Comidas de equipo, cenas de expositores, privatización: el Bistrot Le Dôme recibe grupos a 5 minutos a pie de Paris Expo Porte de Versailles. Pida presupuesto.",
+      "h1": "Grupos, empresas y ferias",
+      "intro": "Equipos de expositores, comidas de negocios, cumpleaños o privatización completa: Le Dôme le recibe a 5 minutos a pie de Paris Expo."
+    },
+    "portedeversailles": {
+      "title": "Restaurante en Porte de Versailles",
+      "metaTitle": "Restaurante en Porte de Versailles, bistró francés | Le Dôme",
+      "metaDescription": "Un restaurante francés en Porte de Versailles: caracoles, bourguignon, confit y crème brûlée en el Bistrot Le Dôme, rue du Hameau. 4,8/5 en Google.",
+      "h1": "Un restaurante francés en Porte de Versailles",
+      "intro": "El Bistrot Le Dôme está en el 6 de la rue du Hameau, en el distrito 15, a pocos minutos a pie de la place de la Porte de Versailles.",
+      "sections": [
+        {
+          "h": "Un auténtico bistró de barrio",
+          "p": [
+            "Fachada negra, toldo azul noche, sillas de bistró y lámparas doradas: Le Dôme es tal como uno imagina un bistró parisino. Los vecinos vienen a comer, los amigos a cenar, y el bar sigue abierto para el aperitivo."
+          ]
+        },
+        {
+          "h": "Qué comer",
+          "p": [
+            "La carta se mantiene fiel a los clásicos: caracoles con mantequilla de ajo y perejil, huevo con mayonesa, bœuf bourguignon, confit de pato con patatas a la sarladaise, entrecot de ternera francesa con salsa a la pimienta. De postre, crème brûlée, tiramisú casero y coulant de chocolate.",
+            "Si lo prefiere, también hay hamburguesas de ternera Angus, ensaladas completas y tablas para compartir."
+          ]
+        },
+        {
+          "h": "Cómo llegar",
+          "p": [
+            "Metro Porte de Versailles (línea 12) o tranvía T2 y T3a, y luego unos minutos a pie. El restaurante abre todos los días."
+          ]
+        }
+      ]
+    },
+    "parisexpo": {
+      "title": "Restaurante cerca de Paris Expo",
+      "metaTitle": "Restaurante cerca de Paris Expo, a 5 min a pie | Le Dôme",
+      "metaDescription": "Comer o cenar cerca de Paris Expo: el Bistrot Le Dôme está a 5 minutos a pie del recinto ferial. Cocina francesa, grupos de expositores, reserva en línea.",
+      "h1": "Un restaurante a 5 minutos de Paris Expo",
+      "intro": "¿Expone o visita una feria en Porte de Versailles? Desde el boulevard Lefebvre, suba por la rue de la Croix-Nivert: Le Dôme está al principio de la rue du Hameau, a 5 minutos a pie.",
+      "sections": [
+        {
+          "h": "Desde los pabellones",
+          "p": [
+            "Cuente 5 minutos a pie desde el boulevard Lefebvre, frente a los pabellones, por la rue de la Croix-Nivert, y unos 7 minutos desde la entrada principal, en la place de la Porte de Versailles."
+          ]
+        },
+        {
+          "h": "Comer durante una feria",
+          "p": [
+            "A mediodía el barrio se llena los días de feria: reserve, aunque sean dos. Díganos si tiene una cita en su stand y haremos lo posible por servirle a tiempo. El plato del día se publica en esta web cada mañana."
+          ]
+        },
+        {
+          "h": "Cena de equipo o de clientes",
+          "p": [
+            "Por la noche, Le Dôme recibe a los equipos de expositores y a los clientes que invitan. Para un grupo, envíe la fecha, el número de personas y su presupuesto: le proponemos un menú y una cuenta única si lo necesita."
+          ]
+        }
+      ]
+    },
+    "legal": {
+      "title": "Aviso legal",
+      "metaTitle": "Aviso legal | Bistrot Le Dôme",
+      "metaDescription": "Aviso legal de la web del Bistrot Le Dôme, 6 rue du Hameau, 75015 París.",
+      "h1": "Aviso legal"
+    }
+  },
+  "legal": {
+    "editor": "Editor del sitio",
+    "siret": "SIRET",
+    "director": "Director de la publicación",
+    "host": "Alojamiento",
+    "photos": "Fotos",
+    "photosText": "Fotos del restaurante procedentes de su ficha de Google y de su antigua web. Las caras de los clientes están difuminadas.",
+    "data": "Datos personales",
+    "dataText": "La información enviada por los formularios solo sirve para responder a su solicitud. No se vende ni se usa con fines publicitarios. Para que la borremos, escriba a ledome92@gmail.com.",
+    "map": "Plano",
+    "mapText": "Plano del barrio © colaboradores de OpenStreetMap (licencia ODbL).",
+    "toFill": "Por completar"
+  },
+  "slots": {
+    "bourguignon": "Bœuf bourguignon",
+    "confit": "Confit de pato",
+    "entrecote": "Entrecot",
+    "creme-brulee": "Crème brûlée",
+    "vins": "La bodega",
+    "equipe": "El equipo del Dôme",
+    "soon": "Foto próximamente"
+  },
+  "alt": {
+    "facade-soir": "La fachada negra del Bistrot Le Dôme al atardecer, con su toldo azul noche y los escaparates iluminados",
+    "facade": "La fachada del Bistrot Le Dôme, 6 rue du Hameau",
+    "ardoises": "Las pizarras delante del Bistrot Le Dôme, entre ellas la sugerencia del día: bœuf bourguignon",
+    "salle": "La sala del Dôme: paredes de ladrillo, lámparas doradas, sillas de bistró y barra",
+    "tables": "Mesas puestas con manteles individuales de papel de periódico y servilletas burdeos",
+    "escargots": "Seis caracoles de Borgoña con mantequilla de ajo y perejil en su plato de metal",
+    "burger-du-dome": "La hamburguesa del Dôme, doble carne, huevo y cheddar, con patatas fritas caseras y ensalada",
+    "dorade": "Filetes de dorada, arroz y judías verdes, salsa virgen de tomate y alcaparras",
+    "tiramisu": "Tiramisú casero servido en tarro de cristal",
+    "tireuses": "Los grifos de cerveza del bar: Chouffe, Britt, Grimbergen, IPA",
+    "grimbergen": "Una copa de Grimbergen en la barra",
+    "ardoises-bourguignon": "La pizarra delante del Bistrot Le Dôme: sugerencia del día, bœuf bourguignon a 27,90 €"
+  }
+}

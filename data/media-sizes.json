@@ -1,0 +1,54 @@
+{
+ "/media/hero/facade-soir.jpg": [
+  2400,
+  1353
+ ],
+ "/media/plats/burger-du-dome.jpg": [
+  1500,
+  2000
+ ],
+ "/media/plats/dorade.jpg": [
+  1029,
+  580
+ ],
+ "/media/plats/escargots.jpg": [
+  765,
+  1020
+ ],
+ "/media/desserts/tiramisu.jpg": [
+  1200,
+  674
+ ],
+ "/media/salle/salle.jpg": [
+  2000,
+  1500
+ ],
+ "/media/salle/tables.jpg": [
+  1200,
+  674
+ ],
+ "/media/facade/ardoises-bourguignon.jpg": [
+  840,
+  1120
+ ],
+ "/media/facade/ardoises.jpg": [
+  2000,
+  1126
+ ],
+ "/media/facade/facade.jpg": [
+  2000,
+  1128
+ ],
+ "/media/bar/grimbergen.jpg": [
+  1528,
+  854
+ ],
+ "/media/bar/tireuses.jpg": [
+  1032,
+  580
+ ],
+ "/media/plan/plan.jpg": [
+  1400,
+  1000
+ ]
+}
